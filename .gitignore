@@ -1,0 +1,15 @@
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore dependency directories
+venv/
+env/
+node_modules/
+
+# Ignore compiled code and build artifacts
+*.pyc
+*.class
+build/
+dist/
